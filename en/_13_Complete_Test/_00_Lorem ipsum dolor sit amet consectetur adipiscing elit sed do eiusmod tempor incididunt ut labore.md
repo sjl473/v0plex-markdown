@@ -38,10 +38,8 @@ This table contains inline code and inline math across many rows and columns to 
 | Table Cell | Experimental | $\prod_{p} \frac{1}{1-p^{-s}}$ | `class Model(nn.Module): pass` | `new URLSearchParams(window.location.search)` | DEBUG | O(n log n) | Row 5 |
 | Nested Expr | Valid | $\mathfrak{sl}(2, \mathbb{C})$ | `list comprehension [x for x in xs]` | `npm install react react-dom` | INFO | O(n log n) | Row 6 |
 | Escaped Chars | Partial | $\lim_{x \to 0} \frac{\sin x}{x} = 1$ | `pip install numpy pandas` | `const callback = useCallback(() => {}, [])` | ERR | O(1) | Row 7 |
-| Unicode Mix | Valid | $\oint_C \mathbf{F} \cdot d\mathbf{r}$ | `df.groupby(["col"]).sum()` | `console.log(`value: ${x}`)` | ERR | O(2ⁿ) | Row 8 |
 | Long Formula | Partial | $\mathsf{H} \in \mathrm{Mat}_{n \times n}$ | `lambda x: x + 1` | `const memoized = useMemo(() => compute(x), [x])` | INFO | O(2ⁿ) | Row 9 |
 | Short Ref | Valid | $\mathscr{F}[f](\xi) = \hat{f}(\xi)$ | `json.dumps(data, indent=2)` | `await fetch(url)` | DEBUG | O(n log n) | Row 10 |
-| Matrix Notation | Experimental | $\lfloor x \rfloor \leq x < \lceil x \rceil$ | `functools.reduce(operator.add, xs)` | `console.log(`value: ${x}`)` | DEBUG | O(n) | Row 11 |
 | Set Theory | Valid | $\sum_{i=1}^{n} x_i^2$ | `enumerate(["a", "b", "c"])` | `Object.keys(data).filter(Boolean)` | ERR | O(1) | Row 12 |
 | Calculus | Invalid | $\Re(z) = x, \; \Im(z) = y$ | `df.groupby(["col"]).sum()` | `setTimeout(() => {}, 1000)` | ERR | O(n²) | Row 13 |
 | Statistics | Partial | $\wp(z; \omega_1, \omega_2)$ | `typing.NewType("UserId", int)` | `type User = { id: string; name: string }` | OK | O(2ⁿ) | Row 15 |
