@@ -55,4 +55,3 @@ def calculate_rizz(looks, money, status):
 Mewing incorrectly may result in TMJ disorders or asymmetrical jaw development. Consult a looksmaxxing professional.
 </warning>
 
-The optimal mewing angle is $	heta = 45^{
