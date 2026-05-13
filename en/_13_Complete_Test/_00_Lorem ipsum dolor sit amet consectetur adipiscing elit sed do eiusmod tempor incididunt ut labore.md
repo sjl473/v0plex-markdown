@@ -26,8 +26,7 @@ $$
 
 ## Mega Test Table
 
-This table contains inline code and inline math across many rows and columns to test rendering at scale.
-
+This table contains inline code and inline math across many rows and columns to test rß
 <table>
 
 | Feature | Syntax | LaTeX Inline | Python Code | JS/TS Code | Result | Complexity | Notes |
@@ -45,7 +44,6 @@ This table contains inline code and inline math across many rows and columns to 
 | Matrix Notation | Experimental | $\lfloor x \rfloor \leq x < \lceil x \rceil$ | `functools.reduce(operator.add, xs)` | `console.log(`value: ${x}`)` | DEBUG | O(n) | Row 11 |
 | Set Theory | Valid | $\sum_{i=1}^{n} x_i^2$ | `enumerate(["a", "b", "c"])` | `Object.keys(data).filter(Boolean)` | ERR | O(1) | Row 12 |
 | Calculus | Invalid | $\Re(z) = x, \; \Im(z) = y$ | `df.groupby(["col"]).sum()` | `setTimeout(() => {}, 1000)` | ERR | O(n²) | Row 13 |
-| Algebra | Partial | $\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}$ | `torch.optim.Adam(model.parameters())` | `console.log(`value: ${x}`)` | WARN | O(n!) | Row 14 |
 | Statistics | Partial | $\wp(z; \omega_1, \omega_2)$ | `typing.NewType("UserId", int)` | `type User = { id: string; name: string }` | OK | O(2ⁿ) | Row 15 |
 | Probability | Invalid | $\mathcal{L}\{f(t)\} = \int_0^\infty e^{-st}f(t)dt$ | `dict.get(key, default)` | `Object.keys(data).filter(Boolean)` | WARN | O(n²) | Row 16 |
 | Logic Gates | Deprecated | $\mathbb{R}^n \to \mathbb{C}$ | `typing.NewType("UserId", int)` | `return <div className="flex" />` | DEBUG | O(n) | Row 17 |
