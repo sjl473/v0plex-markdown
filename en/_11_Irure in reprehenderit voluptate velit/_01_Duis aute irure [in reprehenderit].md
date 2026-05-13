@@ -56,10 +56,10 @@ function snickerSnack(vorpal) {
 The frumious Bandersnatch is known to lurk near tulgey wood. Keep your vorpal sword sharp and your wits sharper.
 </warning>
 
-$lpha + eta = \gamma$ is a statement of pure gibberish mathematics.
+$\vec{F} = m\vec{a}$ is a statement of pure gibberish mathematics.
 
 $$
-\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
+\frac{d}{dx} e^x = e^x
 $$
 
 > One, two! One, two! And through and through the vorpal blade went snicker-snack!

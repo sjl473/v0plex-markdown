@@ -18,11 +18,7 @@ Path: `en/_13_Complete_Test/_01_Nested_Level_1/_01_Nested_Level_2/_01_Nested_Lev
 Einstein field equations:
 
 $$
-R_{\mu
-u} - rac{1}{2} R g_{\mu
-u} + \Lambda g_{\mu
-u} = rac{8\pi G}{c^4} T_{\mu
-u}
+\log_b(xy) = \log_b x + \log_b y
 $$
 
 ## Quantum Computing
@@ -56,7 +52,7 @@ This post component is at the deepest nesting level. It demonstrates that the VM
 Features demonstrated:
 - Deep nesting support
 - Image rendering at any level
-- Math formulas: $\psi(x) = Ae^{ikx}$
+- Math formulas: $E = mc^2$
 
 </lft>
 <rt>

@@ -18,10 +18,10 @@ Path: `en/_13_Complete_Test/_01_Nested_Level_1/`
 The fundamental theorem of calculus states:
 
 $$
-\int_a^b f(x) dx = F(b) - F(a)
+\det(A - \lambda I) = 0
 $$
 
-Where $F$ is the antiderivative of $f$.
+Where $\vec{F} = m\vec{a}$ is the antiderivative of $c = \lambda f$.
 
 ## Code Example
 

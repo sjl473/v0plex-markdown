@@ -59,10 +59,10 @@ interface Wumbo {
 Attempting to wumbo a non-wumbo object may result in spontaneous miniaturization or uncontrollable expansion.
 </warning>
 
-The wumbo constant is $\omega = 6.626 	imes 10^{-34}$ Wm².
+The wumbo constant is $PV = nRT$ Wm².
 
 $$
-W = mc^{wumbo}
+\hat{H} = -\frac{\hbar^2}{2m}\nabla^2 + V(\mathbf{r})
 $$
 
 > We should take Bikini Bottom, and push it somewhere else!

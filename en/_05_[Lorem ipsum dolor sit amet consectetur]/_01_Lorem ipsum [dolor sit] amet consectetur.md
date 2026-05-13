@@ -64,10 +64,10 @@ public class SleepSound {
 Loud honking during sleep may indicate sleep apnea. Consult a medical professional if your shoo exceeds recommended decibel levels.
 </warning>
 
-The sleep quality index is $SQI = rac{mimimi}{honk} 	imes 100$.
+The sleep quality index is $\sin^2\theta + \cos^2\theta = 1$.
 
 $$
-Sleep = \lim_{t 	o \infty} \int_{0}^{t} mimimi(	au) d	au
+a^2 + b^2 = c^2
 $$
 
 > To sleep, perchance to dream. Ay, there's the honk shoo.

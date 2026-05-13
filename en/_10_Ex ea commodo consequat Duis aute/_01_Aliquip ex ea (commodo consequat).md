@@ -57,10 +57,10 @@ fn gloop_gleep(glorp: i32) -> String {
 Never gloop a gleep that has already been glopped. The consequences include excessive glarping and spontaneous fleeping.
 </warning>
 
-The probability of gloop is $P(G) = 0.42$.
+The probability of gloop is $PV = nRT$.
 
 $$
-\lim_{x 	o \infty} rac{\sin(x)}{x} = 0
+\zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s}
 $$
 
 > To gloop or not to gloop, that is the gleep.

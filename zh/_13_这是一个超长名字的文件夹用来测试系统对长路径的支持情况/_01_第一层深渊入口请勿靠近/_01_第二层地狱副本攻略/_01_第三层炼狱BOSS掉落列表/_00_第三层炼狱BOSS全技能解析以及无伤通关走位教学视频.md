@@ -17,11 +17,6 @@ has_custom_tsx: false
 
 热方程：
 
-$$
-rac{\partial u}{\partial t} = lpha 
-abla^2 u
-$$
-
 ## TypeScript 实现
 
 ```typescript

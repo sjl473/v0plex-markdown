@@ -15,12 +15,6 @@ Path: `en/_13_Complete_Test/_01_Nested_Level_1/_01_Nested_Level_2/_01_Nested_Lev
 
 ## Differential Equations
 
-The heat equation:
-
-$$
-rac{\partial u}{\partial t} = lpha 
-abla^2 u
-$$
 
 ## TypeScript Implementation
 

@@ -63,10 +63,10 @@ public class Blorbo {
 Blorbo may experience severe plot armor. Side effects include surviving impossible situations and always finding the macguffin.
 </warning>
 
-The probability of Blorbo being the chosen one is $P = 1.0$.
+The probability of Blorbo being the chosen one is $f'(x) = \lim_{h \to 0} \frac{f(x+h)-f(x)}{h}$.
 
 $$
-Blorbo = \int_{birth}^{death} plotArmor(t) dt
+\sigma^2 = \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2
 $$
 
 > I am Blorbo. You are Blorbo. We are all Blorbo on this blessed day.

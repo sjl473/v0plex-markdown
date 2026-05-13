@@ -16,7 +16,7 @@ Path: `en/_13_Complete_Test/_01_Nested_Level_1/_01_Nested_Level_2/_01_Nested_Lev
 ## Fourier Transform
 
 $$
-\hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) e^{-2\pi i x \xi} dx
+\frac{\partial u}{\partial t} = D \nabla^2 u
 $$
 
 ## FFT Algorithm

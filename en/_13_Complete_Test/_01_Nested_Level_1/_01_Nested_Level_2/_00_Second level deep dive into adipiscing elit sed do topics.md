@@ -18,7 +18,7 @@ Path: `en/_13_Complete_Test/_01_Nested_Level_1/_01_Nested_Level_2/`
 Matrix multiplication formula:
 
 $$
-C_{ij} = \sum_{k=1}^{n} A_{ik} B_{kj}
+R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R + g_{\mu\nu}\Lambda = \frac{8\pi G}{c^4}T_{\mu\nu}
 $$
 
 ## Implementation

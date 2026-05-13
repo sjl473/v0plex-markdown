@@ -16,13 +16,10 @@ This document demonstrates all VMD features with proper nesting levels.
 The following are common mathematical formulas without any Chinese characters:
 
 $$
-\int_{-\infty}^{+\infty} e^{-x^2} dx = \sqrt{\pi}
+\hat{H} = -\frac{\hbar^2}{2m}\nabla^2 + V(\mathbf{r})
 $$
 
 $$
-\sum_{i=1}^{n} i = rac{n(n+1)}{2}
+\Gamma(z) = \int_0^{\infty} t^{z-1}e^{-t} dt
 $$
 
-$$
-
-abla 

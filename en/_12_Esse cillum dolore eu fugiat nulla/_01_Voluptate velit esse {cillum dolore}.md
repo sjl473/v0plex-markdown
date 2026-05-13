@@ -79,10 +79,10 @@ def foo(bar, baz):
 
 Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
 
-The energy of nonsense is $E = mc^2$, where $E$ is energy, $m$ is mass, and $c$ is the speed of gibberish.
+The energy of nonsense is $i\hbar\frac{\partial}{\partial t}|\psi\rangle = \hat{H}|\psi\rangle$, where $f'(x) = \lim_{h \to 0} \frac{f(x+h)-f(x)}{h}$ is energy, $\Delta x \cdot \Delta p \geq \frac{\hbar}{2}$ is mass, and $\Delta x \cdot \Delta p \geq \frac{\hbar}{2}$ is the speed of gibberish.
 
 $$
-\sum_{n=1}^{\infty} rac{1}{n^2} = rac{\pi^2}{6}
+\log_b(xy) = \log_b x + \log_b y
 $$
 
 Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
