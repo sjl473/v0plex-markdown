@@ -28,6 +28,8 @@ $$
 
 This table contains inline code and inline math across many rows and columns to test rendering at scale.
 
+<table>
+
 | Feature | Syntax | LaTeX Inline | Python Code | JS/TS Code | Result | Complexity | Notes |
 |---|---|---|---|---|---|---|---|
 | Inline Math | Valid | $\alpha + \beta = \gamma$ | `dict.get(key, default)` | `Array.from({length: 10}, (_, i) => i)` | WARN | O(n) | Row 1 |
@@ -60,3 +62,5 @@ This table contains inline code and inline math across many rows and columns to 
 | Integral Transform | Valid | $\chi^2 = \sum \frac{(O_i - E_i)^2}{E_i}$ | `@dataclass(frozen=True)` | `import { useRouter } from "next/router"` | ERR | O(n!) | Row 28 |
 | Series Expansion | Partial | $\frac{\partial f}{\partial x}$ | `list(filter(None, seq))` | `document.querySelector("#app")` | WARN | O(n²) | Row 29 |
 | Tensor Notation | Valid | $\mathrm{Var}(X) = \mathbb{E}[X^2] - (\mathbb{E}[X])^2$ | `@dataclass(frozen=True)` | `const memoized = useMemo(() => compute(x), [x])` | ERR | O(2ⁿ) | Row 30 |
+
+</table>
