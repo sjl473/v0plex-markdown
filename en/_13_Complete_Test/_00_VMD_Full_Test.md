@@ -174,7 +174,7 @@ This is a success box. Use it to confirm successful operations or positive outco
 <post>
 <lft>
 
-This is a comprehensive example of the `<post>` component with multiple images on the right side. The post component allows you to create a two-column layout where text appears on the left and images appear on the right.
+This is a comprehensive example of the Post component with multiple images on the right side. The post component allows you to create a two-column layout where text appears on the left and images appear on the right.
 
 The `left` section supports standard Markdown formatting including **bold**, *italic*, and `inline code`. Mathematical expressions like $E = mc^2$ are also supported.
 
