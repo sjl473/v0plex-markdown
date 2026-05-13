@@ -6,7 +6,7 @@ author: @git
 tags: [tutorial]
 has_custom_tsx: false
 ---
-s
+
 # Python 控制家电完全教程（包括但不限于微波炉烤箱洗衣机）
 
 ## 无语
