@@ -57,8 +57,8 @@ Features demonstrated:
 </lft>
 <rt>
 
-![Deep Image 1](/assets/images/img_01.jpg)
-![Deep Image 2](/assets/images/img_02.jpg)
+![Deep Image 1](../../../../../../../assets/images/unsplash/unsplash_011.jpg)
+![Deep Image 2](../../../../../../../assets/images/unsplash/test_4.jpg)
 
 </rt>
 </post>

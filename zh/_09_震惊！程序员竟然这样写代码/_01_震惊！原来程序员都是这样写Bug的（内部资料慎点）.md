@@ -15,7 +15,7 @@ has_custom_tsx: false
 
 ### 一席话示意
 
-![一席话示意](/assets/images/pasted_file.png)
+![一席话示意](../../assets/images/unsplash/unsplash_008.jpg)
 
 ### 一席话实现
 
@@ -25,4 +25,4 @@ fn listen_to_words(person: &str, words: &str) -> String {
 }
 ```
 
-<smallimg>![话图标](/assets/images/pasted_file.png)</smallimg> 图标虽小，含义却大；含义虽大，图标还是小。
+<smallimg>![话图标](../../assets/images/unsplash/unsplash_005.jpg)</smallimg> 图标虽小，含义却大；含义虽大，图标还是小。

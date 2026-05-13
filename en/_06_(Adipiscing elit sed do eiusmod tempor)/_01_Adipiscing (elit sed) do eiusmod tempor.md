@@ -34,9 +34,9 @@ A mlem indicates grooming behavior or the consumption of treats.
 </lft>
 <rt>
 
-![Cat blep](/assets/images/pasted_file.png)
+![Cat blep](../../assets/images/unsplash/unsplash_002.jpg)
 
-![Dog mlem](/assets/images/pasted_file.png)
+![Dog mlem](../../assets/images/unsplash/unsplash_005.jpg)
 
 </rt>
 </post>

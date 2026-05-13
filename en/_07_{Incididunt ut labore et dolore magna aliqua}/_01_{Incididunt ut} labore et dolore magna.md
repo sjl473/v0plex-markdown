@@ -34,9 +34,9 @@ Along the way he meets **Generic Sidekick** and **Generic Mentor**.
 </lft>
 <rt>
 
-![placeholder](/assets/images/pasted_file.png)
+![placeholder](../../assets/images/unsplash/test_3.jpg)
 
-![placeholder](/assets/images/pasted_file.png)
+![placeholder](../../assets/images/unsplash/unsplash_011.jpg)
 
 </rt>
 </post>
@@ -71,7 +71,7 @@ $$
 
 > I am Blorbo. You are Blorbo. We are all Blorbo on this blessed day.
 
-<smallimg>![placeholder](/assets/images/pasted_file.png)</smallimg> Speak for yourself.
+<smallimg>![placeholder](../../assets/images/unsplash/test_3.jpg)</smallimg> Speak for yourself.
 
 <success>
 Blorbo has successfully completed the generic hero's journey. Roll credits.

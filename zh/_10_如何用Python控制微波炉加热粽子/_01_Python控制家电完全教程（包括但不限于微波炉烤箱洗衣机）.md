@@ -15,7 +15,7 @@ has_custom_tsx: false
 
 ### 无语表情图
 
-![无语表情图](/assets/images/pasted_file.png)
+![无语表情图](../../assets/images/unsplash/test_3.jpg)
 
 ### 无语实现
 
@@ -26,4 +26,4 @@ def speechless(text):
     return text
 ```
 
-<smallimg>![无语小图标](/assets/images/pasted_file.png)</smallimg> 小小的无语图标，承载着大大的无语。
+<smallimg>![无语小图标](../../assets/images/unsplash/unsplash_010.jpg)</smallimg> 小小的无语图标，承载着大大的无语。
