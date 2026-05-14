@@ -1,0 +1,13 @@
+{
+  "languages": ["en", "zh"],
+  "categories": {
+    "folder_1": {
+      "en": "en catagories name 1",
+      "zh": "en catagories name 1"
+    },
+    "folder_2": {
+      "en": "en catagories name 2",
+      "zh": "en catagories name 2"
+    }
+  }
+}
