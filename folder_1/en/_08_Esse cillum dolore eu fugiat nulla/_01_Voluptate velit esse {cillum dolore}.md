@@ -50,9 +50,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praes
 </lft>
 <rt>
 
-![Nonsense placeholder](../../assets/images/unsplash/unsplash_011.jpg)
+![Nonsense placeholder](../assets/images/unsplash/unsplash_011.jpg)
 
-![Another nonsense placeholder](../../assets/images/img_02.jpg)
+![Another nonsense placeholder](../assets/images/img_02.jpg)
 
 </rt>
 </post>
@@ -91,7 +91,7 @@ Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saep
 
 Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
 
-<smallimg>![Tiny icon](../../assets/images/img_02.jpg)</smallimg> Inline small images make no sense either, yet here they are, floating amidst the nonsense like tiny boats on a sea of gibberish.
+<smallimg>![Tiny icon](../assets/images/img_02.jpg)</smallimg> Inline small images make no sense either, yet here they are, floating amidst the nonsense like tiny boats on a sea of gibberish.
 
 [Click here for more nonsense](https://example.com)
 

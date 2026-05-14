@@ -34,9 +34,9 @@ Wumbo wumbo wumbo, wumbo wumbo. Wumbo!
 </lft>
 <rt>
 
-![Wumbo demonstration](../../assets/images/unsplash/unsplash_002.jpg)
+![Wumbo demonstration](../assets/images/unsplash/unsplash_002.jpg)
 
-![Wumbo chart](../../assets/images/unsplash/unsplash_005.jpg)
+![Wumbo chart](../assets/images/unsplash/unsplash_005.jpg)
 
 </rt>
 </post>
@@ -67,7 +67,7 @@ $$
 
 > We should take Bikini Bottom, and push it somewhere else!
 
-<smallimg>![Wumbo button](../../assets/images/img_02.jpg)</smallimg> Is this the wumbo button?
+<smallimg>![Wumbo button](../assets/images/img_02.jpg)</smallimg> Is this the wumbo button?
 
 <success>
 Firmly grasp it! The wumbo has been successfully deployed.

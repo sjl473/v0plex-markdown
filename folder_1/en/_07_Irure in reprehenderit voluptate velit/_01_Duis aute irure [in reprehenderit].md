@@ -34,9 +34,9 @@ Twas brillig, and the slithy toves did gyre and gimble in the wabe. All mimsy we
 </lft>
 <rt>
 
-![Slithy toves](../../assets/images/unsplash/unsplash_004.jpg)
+![Slithy toves](../assets/images/unsplash/unsplash_004.jpg)
 
-![Mome raths](../../assets/images/unsplash/test_5.jpg)
+![Mome raths](../assets/images/unsplash/test_5.jpg)
 
 </rt>
 </post>
@@ -64,7 +64,7 @@ $$
 
 > One, two! One, two! And through and through the vorpal blade went snicker-snack!
 
-<smallimg>![Vorpal blade](../../assets/images/unsplash/unsplash_011.jpg)</smallimg> He left it dead, and with its head he went galumphing back.
+<smallimg>![Vorpal blade](../assets/images/unsplash/unsplash_011.jpg)</smallimg> He left it dead, and with its head he went galumphing back.
 
 <success>
 O frabjous day! Callooh! Callay! He chortled in his joy.

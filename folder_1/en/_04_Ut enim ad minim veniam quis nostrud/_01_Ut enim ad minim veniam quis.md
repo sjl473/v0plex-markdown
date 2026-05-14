@@ -34,7 +34,7 @@ The goal is to achieve **hunter eyes** and a **chiseled jawline**.
 </lft>
 <rt>
 
-![Looksmaxxed individual](../../assets/images/unsplash/unsplash_001.jpg)
+![Looksmaxxed individual](../assets/images/unsplash/unsplash_001.jpg)
 
 </rt>
 </post>

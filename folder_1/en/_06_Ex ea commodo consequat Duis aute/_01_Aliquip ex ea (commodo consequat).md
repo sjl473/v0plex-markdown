@@ -36,7 +36,7 @@ The gloopish globs are known to gleep at midnight. Their glorpish habits include
 </lft>
 <rt>
 
-![Gloopish glob](../../assets/images/unsplash/unsplash_001.jpg)
+![Gloopish glob](../assets/images/unsplash/unsplash_001.jpg)
 
 </rt>
 </post>
@@ -65,7 +65,7 @@ $$
 
 > To gloop or not to gloop, that is the gleep.
 
-<smallimg>![Gloop icon](../../assets/images/unsplash/test_4.jpg)</smallimg> A gloop in hand is worth two gleeps in the bush.
+<smallimg>![Gloop icon](../assets/images/unsplash/test_4.jpg)</smallimg> A gloop in hand is worth two gleeps in the bush.
 
 <success>
 All gloops that end well are well glooped.

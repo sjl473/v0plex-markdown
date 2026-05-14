@@ -35,9 +35,9 @@ To achieve the perfect honk shoo, one must first relax the honk muscles and enga
 </lft>
 <rt>
 
-![placeholder](../../assets/images/unsplash/unsplash_002.jpg)
+![placeholder](../assets/images/unsplash/unsplash_002.jpg)
 
-![placeholder](../../assets/images/unsplash/unsplash_010.jpg)
+![placeholder](../assets/images/unsplash/unsplash_010.jpg)
 
 </rt>
 </post>
@@ -72,7 +72,7 @@ $$
 
 > To sleep, perchance to dream. Ay, there's the honk shoo.
 
-<smallimg>![placeholder](../../assets/images/unsplash/unsplash_001.jpg)</smallimg> Counting sheep is so last century. Count mimimis instead.
+<smallimg>![placeholder](../assets/images/unsplash/unsplash_001.jpg)</smallimg> Counting sheep is so last century. Count mimimis instead.
 
 <success>
 You have achieved deep REM sleep. Honk shoo complete.
