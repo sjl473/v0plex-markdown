@@ -1,8 +1,8 @@
 ---
 title: Level 5 Master Level
-created_at: @git
-last_updated_at: @git
-author: @git
+created_at: git
+last_updated_at: git
+author: git
 tags: [final]
 has_custom_tsx: false
 ---

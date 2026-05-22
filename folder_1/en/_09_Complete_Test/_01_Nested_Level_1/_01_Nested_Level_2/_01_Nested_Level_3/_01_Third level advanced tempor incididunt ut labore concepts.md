@@ -1,8 +1,8 @@
 ---
 title: Level 3 Advanced Topics
-created_at: @git
-last_updated_at: @git
-author: @git
+created_at: git
+last_updated_at: git
+author: git
 tags: [advanced]
 has_custom_tsx: false
 ---

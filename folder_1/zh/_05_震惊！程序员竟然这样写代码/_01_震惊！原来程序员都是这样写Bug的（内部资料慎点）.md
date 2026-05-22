@@ -1,8 +1,8 @@
 ---
 title: 震惊！原来程序员都是这样写 Bug 的（内部资料慎点）
-created_at: @git
-last_updated_at: @git
-author: @git
+created_at: git
+last_updated_at: git
+author: git
 tags: [reference]
 has_custom_tsx: false
 ---
